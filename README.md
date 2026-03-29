@@ -12,6 +12,6 @@ For Office of Admissions: username=Admin, password=admin
 
 
 ## To run the project locally:
-1. pip install qrcode[pil]
+1. Run "./build.sh"
 2. Run "python manage.py runserver"
 
