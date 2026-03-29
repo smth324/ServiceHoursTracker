@@ -278,6 +278,7 @@ def student_calendar(request):
 
 
 @login_required
+@csrf_exempt
 def org_dashboard(request):
     user = request.user
     try:
@@ -296,6 +297,7 @@ def org_dashboard(request):
 
 
 @login_required
+@csrf_exempt
 def org_eventsform(request):
     user = request.user
     try:
