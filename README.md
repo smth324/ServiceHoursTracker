@@ -6,9 +6,9 @@ the QR Code. The Office of Admissions can also view all the information on their
 students are lacking.
 
 ## Sample Accounts
-For Student: username=Kyle, password=Kyle
-For Organization: username=MEA, password=MEA
-For Office of Admissions: username=Admin, password=admin
+For Student: username=Kyle, password=Kyle <br>
+For Organization: username=MEA, password=MEA <br>
+For Office of Admissions: username=Admin, password=admin <br>
 
 
 ## To run the project locally:
